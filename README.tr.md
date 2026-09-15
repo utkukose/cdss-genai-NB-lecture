@@ -118,7 +118,7 @@ adım bu seçime göre ilerler.
 | `mimic-yogun-bakim` | tablo | MIMIC-IV demo, 100 hastanın yoğun bakım kaydı | HTTPS, kimlik doğrulaması yok |
 | `wisconsin` | tablo | Breast Cancer Wisconsin, 569 örnek | scikit-learn içinde hazır |
 | `pnomoni-mnist` | görüntü | PneumoniaMNIST, 5.856 akciğer grafisi | `pip install medmnist` |
-| `meme-mnist` | görüntü | BreastMNIST, 780 ultrason görüntüsü | `pip install medmnist` |
+| `breast-mnist` | görüntü | BreastMNIST, 780 ultrason görüntüsü | `pip install medmnist` |
 | `mimic-ekg` | zaman serisi | MIMIC-IV-ECG demo, 92 hastadan 659 EKG | HTTPS, kimlik doğrulaması yok |
 | `sentetik-not` | metin | Üretilen klinik notlar | Kod üretir |
 
